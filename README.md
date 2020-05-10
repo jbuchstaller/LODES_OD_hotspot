@@ -8,3 +8,5 @@ Download the folder with all the files and run the file "app.R" in R-Studio, set
 
 
 Deployed at https://geospatially.shinyapps.io/lodes_od_hotspot/
+
+Details of the hotspot analysis comming soon .....
