@@ -1,0 +1,8 @@
+#OS junk files
+*.DS_Store
+
+# History files
+.Rhistory
+
+#env files
+.Rprofile

@@ -1,0 +1,10 @@
+name: lodes_od_hotspot
+title:
+username:
+account: geospatially
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2216649
+bundleId: 3117111
+url: https://geospatially.shinyapps.io/lodes_od_hotspot/
+when: 1588871850.18028
