@@ -9,4 +9,11 @@ Download the folder with all the files and run the file "app.R" in R-Studio, set
 
 Deployed at https://geospatially.shinyapps.io/lodes_od_hotspot/
 
-Details of the hotspot analysis coming soon .....
+Hotspot analysis methodology:
+
+I calculated the Getis-Ord Gi* statistic (z-score) for each block with 1-hour driving distance of the origin (censustract clicked by user). This statistic determines whether the local average number of commuters is significantly higher or lower than the global average. To choose the number of neighbors used for the local average, I computed the global Moran's I statistic for a number of scenarios (1 to 100 neighbors) and choose the number of neigbors that resulted in maximal global Moran's I (value where spatial clustering is strongest).
+
+Glossary:
+
+
+
